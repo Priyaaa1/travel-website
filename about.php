@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>About</title>
 
     <!-- swiper css link -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
@@ -31,43 +31,9 @@
 
     </section>
 
-    <!-- Services section -->
-    <section class="services">
-        <h1 class="heading-title">Our services</h1>
-
-        <div class="box-container">
-            <div class="box">
-                <img src="images/icon-1.png" alt="">
-                <h3>Adventure</h3>
-            </div>
-
-            <div class="box">
-                <img src="images/icon-2.png" alt="">
-                <h3>Tour guide</h3>
-            </div>
-
-            <div class="box">
-                <img src="images/icon-3.png" alt="">
-                <h3>Trekking</h3>
-            </div>
-
-            <div class="box">
-                <img src="images/icon-4.png" alt="">
-                <h3>Camp fire</h3>
-            </div>
-
-            <div class="box">
-                <img src="images/icon-5.png" alt="">
-                <h3>Off road</h3>
-            </div>
-
-            <div class="box">
-                <img src="images/icon-6.png" alt="">
-                <h3>Camping</h3>
-            </div>
-
-        </div>
-    </section>
+    <div class="heading">
+        <h1>About us</h1>
+    </div>
 
     <!-- Footer section -->
     <section class="footer">
